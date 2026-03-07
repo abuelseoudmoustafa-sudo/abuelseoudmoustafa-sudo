@@ -1,72 +1,81 @@
-<h1 align="center">Hi 👋, I'm Mostafa Abuelseoud</h1>
-<h3 align="center">Data Analyst | Business Intelligence Professional</h3>
+# 👋 Hi, I'm Mostafa Abuelseoud
 
-📍 Suez, Egypt  
-📊 Turning Data into actionable insights
+**Data Analyst | Business Intelligence | Supply Chain Analytics**
 
----
+I'm a Data Analyst with **10+ years of professional experience** in logistics operations, customs compliance, and financial auditing.  
+I specialize in transforming complex operational data into **clear insights that support data-driven decision making**.
 
-## 👨‍💻 About Me
-
-Data Analyst with **10+ years of professional experience** in logistics operations, customs compliance, and financial auditing.
-
-Skilled in **Power BI, SQL, Excel, and Tableau**, with a strong focus on business intelligence, performance analytics, and data-driven decision making.
-
-Currently enhancing my analytics expertise through the **Digital Egypt Pioneers Initiative (DEPI)**.
+My background in **logistics and supply chain operations** allows me to understand business data beyond numbers and connect analytics with real operational challenges.
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 What I Do
 
-- Power BI (Dashboard Development)
-- DAX
-- Excel (Advanced Analytics & Power Query)
-- Tableau
-- Data Cleaning & Data Transformation
-- KPI & Performance Reporting
-- Supply Chain Analytics
+- Analyze business and operational data to improve performance  
+- Build interactive dashboards to support decision makers  
+- Transform raw data into actionable business insights  
+- Identify trends, inefficiencies, and opportunities using analytics  
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Tools & Skills
 
-**Financial Auditor & Free Zones Advisor**  
-General Authority for Investment and Free Zones – Egypt  
-2017 – Present  
+**Power BI**  
+Dashboard Development | Data Modeling | KPI Reporting  
 
-- Conducted **50+ financial audits annually**
-- Improved reporting accuracy by **20%**
-- Delivered cost-benefit analysis to support business decisions
+**Excel**  
+Advanced Excel | Pivot Tables | Power Query  
 
-**Operations Executive – Import & Export**  
-DB Schenker Egypt  
-2016 – 2017  
+**SQL**  
+Data Extraction | Data Analysis  
 
-- Reduced logistics costs by **10% using data analysis**
-
-**Logistics Specialist – Port Operations**  
-Suez Steel Company  
-2012 – 2015  
-
-- Improved space utilization by **25%**
-- Identified **$50K annual savings**
+**Tableau**  
+Data Visualization  
 
 ---
 
-## 🎓 Education
+## 📦 Domains of Interest
 
-**MBA – Supply Chain Management**  
-Arab Academy for Science, Technology & Maritime Transport  
-GPA: **4.0 / 4.0**
+- Supply Chain Analytics  
+- Business Intelligence  
+- Financial Analytics  
+- Operations Analytics  
 
-**Bachelor of Commerce – Accounting**  
-Suez Canal University
+---
+
+## 📊 Portfolio Dashboards
+
+### 📈 Financial Performance Dashboard
+Analysis of revenue, discounts, and profitability to identify key financial drivers.
+
+![Financial Dashboard](financial-dashboard.png)
+
+---
+
+### 🚚 Supply Chain Performance Dashboard
+Supply chain analytics focusing on supplier performance, lead time, and order fulfillment.
+
+![Supply Chain Dashboard](supply-chain-dashboard.png)
+
+---
+
+### 👥 HR Workforce Analytics Dashboard
+Workforce analysis including salary distribution, overtime workload, and employee demographics.
+
+![HR Dashboard](hr-dashboard.png)
+
+---
+
+### 📊 Job Market Analysis Dashboard
+Analysis of job market trends for Data Analyst and Supply Chain roles using Wuzzuf data.
+
+![Job Market Dashboard](job-market-dashboard.png)
 
 ---
 
 ## 📫 Connect With Me
 
-📧 abuelseoudmoustafa@gmail.com  
+📧 Email: abuelseoudmoustafa@gmail.com  
 
 💼 LinkedIn  
 https://linkedin.com/in/moustafa-abuelseoud
